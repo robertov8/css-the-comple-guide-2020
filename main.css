@@ -11,7 +11,7 @@ body {
 #product-overview {
   width: 100%;
   height: 300px;
-  background: #ff1b68;
+  background: url("freedom.jpg");
   display: flex;
   align-items: center;
   justify-content: center;
