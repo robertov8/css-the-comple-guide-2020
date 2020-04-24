@@ -54,7 +54,7 @@ main {
 
 #free:hover,
 #free:active {
-  border-color: #ff5454;
+  border-left-color: #ff5454;
 }
 
 #premium {
