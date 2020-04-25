@@ -3,8 +3,8 @@
   height: 400px;
   background: url("freedom.jpg");
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: start;
+  justify-content: start;
 }
 
 #product-overview h1 {
