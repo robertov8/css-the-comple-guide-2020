@@ -8,6 +8,10 @@ body {
   display: block;
 }
 
+h1, h2, h3 {
+  line-height: 2;
+}
+
 .main-header {
   background: #2ddf5c;
   position: fixed;
